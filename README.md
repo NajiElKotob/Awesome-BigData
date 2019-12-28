@@ -1,4 +1,4 @@
-# Awesome-BigData
+# Awesome Big Data
 Big Data Resources and References
 
 -----
@@ -13,6 +13,7 @@ Big Data Resources and References
 * [Big Data in Science & Problem Solving](https://international-soil-radiocarbon-database.github.io/SOC-Hub/2018/06/27/Bigdata-Ag/)
 * [Doug Cutting, ‘father’ of Hadoop, talks about big data tech evolution](https://www.computerweekly.com/news/450420002/Doug-Cutting-father-of-Hadoop-talks-about-big-data-tech-evolution)
 * [Big Data Facts](https://analyticsweek.com/content/big-data-facts/) - AnalyticsWeek 
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) :star: - Google, Inc.
 
 ### Use Cases
 * 360° View of the Customer

@@ -54,3 +54,7 @@ Big Data Resources and References
    * [Cloudera](https://www.cloudera.com/)
 ## MapR
    * [MapR](https://mapr.com/)
+## AWS
+* [Big Data on AWS](https://aws.amazon.com/big-data/getting-started/)
+## Google
+* [Google Cloud](https://cloud.google.com/solutions/big-data/)

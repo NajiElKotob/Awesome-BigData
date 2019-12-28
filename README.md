@@ -12,6 +12,7 @@ Big Data Resources and References
 * [The Definition of Big Data (Oracle)](https://www.oracle.com/big-data/guide/what-is-big-data.html)
 * [Big Data in Science & Problem Solving](https://international-soil-radiocarbon-database.github.io/SOC-Hub/2018/06/27/Bigdata-Ag/)
 * [Doug Cutting, ‘father’ of Hadoop, talks about big data tech evolution](https://www.computerweekly.com/news/450420002/Doug-Cutting-father-of-Hadoop-talks-about-big-data-tech-evolution)
+* [Big Data Facts](https://analyticsweek.com/content/big-data-facts/) - AnalyticsWeek 
 
 ### Use Cases
 * 360° View of the Customer
@@ -21,6 +22,7 @@ Big Data Resources and References
 * Preventive Maintenance and Support
 * Internet of Things (IoT)
 * Security Intelligence
+* Anomaly Detection
 * ...
 
 #### Examples
@@ -50,6 +52,8 @@ Big Data Resources and References
    * [Hortonworks](https://hortonworks.com/)
 ## HDInsight (Microsoft)
    * [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/?cdn=disable) - Easy, cost-effective, enterprise-grade service for open source analytics
+   * [Azure regions](https://azure.microsoft.com/en-in/global-infrastructure/regions/)
+   * [Microsoft Data Center Tour](https://www.youtube.com/watch?v=9VWA-7_-Pb0)
 ## Cloudera
    * [Cloudera](https://www.cloudera.com/)
 ## MapR

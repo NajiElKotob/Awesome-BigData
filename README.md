@@ -38,6 +38,7 @@ Big Data Resources and References
 * [Google Flu Trends Estimates](https://www.google.com/publicdata/explore?ds=z3bsqef7ki44ac_)
 
 #### Articles
+* [What is a Lakehouse?](https://databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html) - databricks (January 2020)
 * [The Most Practical Big Data Use Cases Of 2016](https://www.forbes.com/sites/bernardmarr/2016/08/25/the-most-practical-big-data-use-cases-of-2016/) - Bernard Marr
 
 

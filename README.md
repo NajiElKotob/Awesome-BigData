@@ -33,6 +33,7 @@ Big Data Resources and References
 * [How Netflix uses Big Data in practice](https://www.bernardmarr.com/default.asp?contentID=695)
 * [7 Ways Amazon Uses Big Data to Stalk You](https://www.investopedia.com/articles/insights/090716/7-ways-amazon-uses-big-data-stalk-you-amzn.asp)
 * [Google Books Ngram Viewer](https://books.google.com/ngrams/)
+    * [Example Big Data](https://books.google.com/ngrams/graph?content=big+data&direct_url=t1%3B%2Cbig%20data%3B%2Cc0#t1%3B%2Cbig%20data%3B%2Cc0%26ref%3Dnajielkoto0)
 * [Google Trends](https://trends.google.com/trends/explore)
 * [Why big data can help to keep planes in the air](https://blogs.sap.com/2015/01/20/why-airlines-need-to-keep-planes-in-the-air/) :star:
 * [Google Flu Trends Estimates](https://www.google.com/publicdata/explore?ds=z3bsqef7ki44ac_)

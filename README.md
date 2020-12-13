@@ -37,6 +37,7 @@ Big Data Resources and References
 * [Google Trends](https://trends.google.com/trends/explore)
 * [Why big data can help to keep planes in the air](https://blogs.sap.com/2015/01/20/why-airlines-need-to-keep-planes-in-the-air/) :star:
 * [Google Flu Trends Estimates](https://www.google.com/publicdata/explore?ds=z3bsqef7ki44ac_)
+* [Why big data can help to keep planes in the air](https://blogs.sap.com/2015/01/20/why-airlines-need-to-keep-planes-in-the-air/) - Thomas Pohl (January 2015)
 
 #### Articles
 * [What is a Lakehouse?](https://databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html) - databricks (January 2020)

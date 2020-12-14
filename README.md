@@ -42,7 +42,7 @@ Big Data Resources and References
 #### Articles
 * [What is a Lakehouse?](https://databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html) - databricks (January 2020)
 * [The Most Practical Big Data Use Cases Of 2016](https://www.forbes.com/sites/bernardmarr/2016/08/25/the-most-practical-big-data-use-cases-of-2016/) - Bernard Marr
-* [Dark Data](https://lucidworks.com/darkdata/) - What you know about your data is only the tip of the iceberg.
+* [Dark Data](https://lucidworks.com/darkdata/)🗻 - What you know about your data is only the tip of the iceberg.
 
 -----
 

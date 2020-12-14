@@ -51,7 +51,7 @@ Big Data Resources and References
    * [Hadoop Courses (Coursera)](https://www.coursera.org/search?query=hadoop&)
    * [The Google File System](https://research.google/pubs/pub51/) - Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
    * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA)
-   
+   * [What is Apache Hadoop?](https://medium.com/dataseries/fnu-for-non-unicorns-what-is-apache-hadoop-991230b704c) - John Thuma (July 2018)
    
 ## Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing

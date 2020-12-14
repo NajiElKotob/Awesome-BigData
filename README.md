@@ -56,6 +56,8 @@ Big Data Resources and References
 ## Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing
    * [Apache Spark Courses (Coursera)](https://www.coursera.org/courses?query=apache%20spark) 
+   * [What is Apache Spark?](https://medium.com/datadriveninvestor/fnu-for-non-unicorns-what-is-apache-spark-613667e98c67) - John Thuma (June 2018)
+   
 ## Hortonworks
    * [Hortonworks](https://hortonworks.com/)
 ## HDInsight (Microsoft)

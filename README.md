@@ -50,7 +50,8 @@ Big Data Resources and References
    * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.
    * [Hadoop Courses (Coursera)](https://www.coursera.org/search?query=hadoop&)
    * [The Google File System](https://research.google/pubs/pub51/) - Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
-   * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA) - 
+   * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA)
+   
    
 ## Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing

@@ -47,11 +47,14 @@ Big Data Resources and References
 -----
 
 ## Hadoop
-   * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.
-   * [Hadoop Courses (Coursera)](https://www.coursera.org/search?query=hadoop&)
-   * [The Google File System](https://research.google/pubs/pub51/) - Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
-   * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA)
    * [What is Apache Hadoop?](https://medium.com/dataseries/fnu-for-non-unicorns-what-is-apache-hadoop-991230b704c) - John Thuma (July 2018)
+   * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA)
+   * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.
+   * [The Google File System](https://research.google/pubs/pub51/) - Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung   
+   * [Hadoop Courses (Coursera)](https://www.coursera.org/search?query=hadoop&)
+   * Hadoop Ecosystem
+      * [Hadoop Ecosystem: Hadoop Tools for Crunching Big Data](https://www.edureka.co/blog/hadoop-ecosystem) - hedureka.co
+      * [Hadoop Ecosystem and Their Components](https://data-flair.training/blogs/hadoop-ecosystem-components/) - data-flair.training
    
 ## Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing

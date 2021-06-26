@@ -63,10 +63,11 @@ Big Data Resources and References
    
 ## Hortonworks
    * [Hortonworks](https://hortonworks.com/)
-## HDInsight (Microsoft)
+## Microsoft
    * [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/?cdn=disable) - Easy, cost-effective, enterprise-grade service for open source analytics
    * [Azure regions](https://azure.microsoft.com/en-in/global-infrastructure/regions/)
    * [Microsoft Data Center Tour](https://www.youtube.com/watch?v=9VWA-7_-Pb0)
+   * [Azure Synapse](https://azure.microsoft.com/en-us/services/synapse-analytics/video-demos/) - Azure Synapse Analytics demo videos
 ## Cloudera
    * [Cloudera](https://www.cloudera.com/)
 ## MapR

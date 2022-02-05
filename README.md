@@ -78,6 +78,12 @@ Big Data Resources and References
 * [Big Data on AWS](https://aws.amazon.com/big-data/getting-started/)
 ## Google
 * [Google Cloud](https://cloud.google.com/solutions/big-data/)
+
+-----
+## Live Streaming
+* Kafka
+
+
 -----
 ## Languages
 * Python

@@ -56,11 +56,16 @@ Big Data Resources and References
    * Hadoop Ecosystem
       * [Hadoop Ecosystem: Hadoop Tools for Crunching Big Data](https://www.edureka.co/blog/hadoop-ecosystem) - hedureka.co
       * [Hadoop Ecosystem and Their Components](https://data-flair.training/blogs/hadoop-ecosystem-components/) - data-flair.training
-   
-## Spark
+
+### Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing
    * [Apache Spark Courses (Coursera)](https://www.coursera.org/courses?query=apache%20spark) 
    * [What is Apache Spark?](https://medium.com/datadriveninvestor/fnu-for-non-unicorns-what-is-apache-spark-613667e98c67) - John Thuma (June 2018)
+
+### Live Streaming
+* Kafka
+  
+-----
 
 ## Databricks
 
@@ -80,9 +85,7 @@ Big Data Resources and References
 ## Google
 * [Google Cloud](https://cloud.google.com/solutions/big-data/)
 
------
-## Live Streaming
-* Kafka
+
 
 
 -----

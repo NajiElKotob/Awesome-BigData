@@ -1,5 +1,6 @@
 # Awesome Big Data
-Big Data Resources and References
+
+{Awesome Works in Progress}
 
 -----
 "A big data architecture is designed to handle the ingestion, processing, and analysis of data that is too large or complex for traditional database systems." [Big data architecture style (Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data)
@@ -47,7 +48,8 @@ Big Data Resources and References
 
 -----
 
-## Hadoop
+## Hadoop Ecosystem 
+### Hadoop
    * [What is Apache Hadoop?](https://medium.com/dataseries/fnu-for-non-unicorns-what-is-apache-hadoop-991230b704c) - John Thuma (July 2018)
    * [Doug Cutting: The Origins of Hadoop](https://www.youtube.com/watch?v=ebgXN7VaIZA)
    * [Hadoop](https://hadoop.apache.org/) - reliable, scalable, distributed computing.

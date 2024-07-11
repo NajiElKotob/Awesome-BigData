@@ -59,6 +59,17 @@
       * [Hadoop Ecosystem: Hadoop Tools for Crunching Big Data](https://www.edureka.co/blog/hadoop-ecosystem) - hedureka.co
       * [Hadoop Ecosystem and Their Components](https://data-flair.training/blogs/hadoop-ecosystem-components/) - data-flair.training
 
+### Data Storage
+#### HDFS (Hadoop Distributed File System)
+`A distributed file system designed to run on commodity hardware.`
+HBase: A distributed, scalable, big data store modeled after Google's Bigtable.
+
+#### Cassandra
+`A highly scalable, distributed NoSQL database designed for handling large amounts of data.`
+
+#### MongoDB
+`A NoSQL database that uses JSON-like documents with optional schemas.`
+
 ### Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing
    * [Apache Spark Courses (Coursera)](https://www.coursera.org/courses?query=apache%20spark) 

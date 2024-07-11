@@ -60,6 +60,9 @@
       * [Hadoop Ecosystem and Their Components](https://data-flair.training/blogs/hadoop-ecosystem-components/) - data-flair.training
 
 ### Data Storage
+`Systems and tools designed to store and manage large volumes of structured and unstructured data across distributed environments. These storage solutions ensure data durability, high availability, and efficient access.`
+
+
 #### HDFS (Hadoop Distributed File System)
 `A distributed file system designed to run on commodity hardware.`
 HBase: A distributed, scalable, big data store modeled after Google's Bigtable.

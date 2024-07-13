@@ -72,6 +72,7 @@ HBase: A distributed, scalable, big data store modeled after Google's Bigtable.
 
 #### MongoDB
 `A NoSQL database that uses JSON-like documents with optional schemas.`
+* [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) - Net Ninja
 
 ### Spark
    * [Apache Spark](https://spark.apache.org/) - A unified analytics engine for large-scale data processing

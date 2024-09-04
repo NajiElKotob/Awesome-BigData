@@ -10,6 +10,7 @@
 
 ## Big Data
 * [The Four V's of Big Data (IBM)](https://www.ibmbigdatahub.com/infographic/four-vs-big-data)
+* [Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures) ⭐ - learn.microsoft.com
 * [The Definition of Big Data (Oracle)](https://www.oracle.com/big-data/guide/what-is-big-data.html)
 * [Big Data in Science & Problem Solving](https://international-soil-radiocarbon-database.github.io/SOC-Hub/2018/06/27/Bigdata-Ag/)
 * [Doug Cutting, ‘father’ of Hadoop, talks about big data tech evolution](https://www.computerweekly.com/news/450420002/Doug-Cutting-father-of-Hadoop-talks-about-big-data-tech-evolution)
